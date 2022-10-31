@@ -1,6 +1,6 @@
 module.exports = {
-    SUFFIX: "#",
-    ADMIN: "", // Enter your phone number with country code  and without (+)
+    SUFFIX: ",",
+    ADMIN: "", //+393516588957
     STICKER_AUTHOR: "Ryuk's Bot",
     STICKER_NAME: "Bot-wa",
     LANGUAGUE: 'en', // for text to audio // supported language list -> https://www.npmjs.com/package/gtts
